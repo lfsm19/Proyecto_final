@@ -1,0 +1,38 @@
+Encabezado  { width: 100%; height: 50px; background: #ff0; font-size: 1em; text-align: center; clear: both; height: 200px; }
+section { position: relative; }
+#izquierda { position: relative; width: 55%; top: 0; left: 0; background: #ccc; float: left; height: 300px; }
+#derecha { position: relative; width: 45%; top: 0; right: 0; background: #ddf; float: right; height: 300px; }
+
+
+#map {
+  width:  800px;
+	height: 700px;
+}
+
+
+section {
+  border: none 2px solid;
+  margin: 20px;
+}
+
+
+header{
+  border: none 2px solid;
+  margin: 20px;
+}
+    
+table {
+  border: none 2px solid;
+  margin: 20px;
+}
+   
+head {
+text-align : justify;
+}
+  
+body {
+text-align : justify; font-family: Arial, Helvetica, sans-serif;
+}
+  
+var imagenes {  padding: 0; width:400px; height: 250px;
+}
